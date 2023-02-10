@@ -157,6 +157,8 @@ AssignMethods:
     unListDS,
     vectorDS,
     as.character=base::as.character,
+    as.Date=base::as.Date,
+    is.na=base::is.na,
     as.null=base::as.null,
     as.numeric=base::as.numeric,
     attach=base::attach,
